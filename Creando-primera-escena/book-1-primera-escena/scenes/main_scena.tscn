@@ -1,0 +1,70 @@
+[gd_scene load_steps=12 format=3 uid="uid://ovo07djl5o85"]
+
+[ext_resource type="Script" path="res://code/MainScene.cs" id="1_7mix4"]
+[ext_resource type="PackedScene" uid="uid://bgfg5ak2kb1u6" path="res://scenes/suelo.tscn" id="2_i4wgo"]
+[ext_resource type="PackedScene" uid="uid://ba8vdmk4lvm6" path="res://scenes/bird.tscn" id="3_il1oo"]
+[ext_resource type="Script" path="res://code/BirdPlayer.cs" id="4_i4g1d"]
+[ext_resource type="PackedScene" uid="uid://bwcmrwnyoblu5" path="res://scenes/balon.tscn" id="5_74sk7"]
+[ext_resource type="Script" path="res://code/ParedLeft.cs" id="6_3kdvi"]
+[ext_resource type="Script" path="res://code/ParedRight.cs" id="7_oy8ms"]
+[ext_resource type="PackedScene" uid="uid://dhjsxoqibo5tp" path="res://scenes/cerdo.tscn" id="8_g6cwu"]
+[ext_resource type="PackedScene" uid="uid://b7c70jtd2ndgg" path="res://scenes/techo.tscn" id="9_78lys"]
+[ext_resource type="Script" path="res://code/Techo_1.cs" id="10_4luho"]
+[ext_resource type="Script" path="res://code/ButtonCheckBox.cs" id="11_3dfx2"]
+
+[node name="MainScene" type="Node2D"]
+position = Vector2(0, 1)
+script = ExtResource("1_7mix4")
+
+[node name="Suelo_1" parent="." instance=ExtResource("2_i4wgo")]
+collision_layer = 128
+collision_mask = 3
+
+[node name="BirdPlayer" parent="." instance=ExtResource("3_il1oo")]
+position = Vector2(532, 86)
+rotation = 0.00123632
+collision_mask = 146
+gravity_scale = 0.1
+script = ExtResource("4_i4g1d")
+
+[node name="ParedLeft" parent="." instance=ExtResource("5_74sk7")]
+position = Vector2(349, 1015)
+rotation = -1.5708
+collision_layer = 2
+collision_mask = 147
+mass = 3.0
+script = ExtResource("6_3kdvi")
+
+[node name="paredRight" parent="." instance=ExtResource("5_74sk7")]
+position = Vector2(298.088, 947.112)
+rotation = -1.19683
+collision_layer = 2
+collision_mask = 145
+mass = 3.0
+script = ExtResource("7_oy8ms")
+
+[node name="cerdo_1" parent="." instance=ExtResource("8_g6cwu")]
+position = Vector2(118, 219)
+collision_layer = 16
+collision_mask = 128
+
+[node name="techo_1" parent="." instance=ExtResource("9_78lys")]
+position = Vector2(48, 319)
+collision_layer = 2
+collision_mask = 147
+script = ExtResource("10_4luho")
+
+[node name="ButtonCheckBox" type="CheckBox" parent="."]
+offset_left = 73.0
+offset_top = 44.0
+offset_right = 97.0
+offset_bottom = 68.0
+text = "press"
+script = ExtResource("11_3dfx2")
+
+[node name="LabelLife" type="Label" parent="."]
+offset_left = 1025.0
+offset_top = 9.0
+offset_right = 1139.0
+offset_bottom = 32.0
+text = "5"

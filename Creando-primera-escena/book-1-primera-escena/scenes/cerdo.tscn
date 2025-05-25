@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=3 uid="uid://dhjsxoqibo5tp"]
+
+[ext_resource type="Texture2D" uid="uid://beb5vxop74hfi" path="res://art/objects/cerdo-removebg-preview.png" id="1_wkfpy"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_6hihy"]
+bounce = 0.2
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_6fjq2"]
+radius = 47.0956
+
+[node name="RigidBody2D" type="RigidBody2D"]
+mass = 5.0
+physics_material_override = SubResource("PhysicsMaterial_6hihy")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(379, 254)
+texture = ExtResource("1_wkfpy")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(377, 256)
+shape = SubResource("CircleShape2D_6fjq2")

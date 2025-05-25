@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://c3ix1b8afdkhs"]
+
+[node name="Node2D_hello" type="Node2D"]
+metadata/_edit_group_ = true
+
+[node name="Label_hello_world" type="Label" parent="."]
+offset_left = 352.0
+offset_top = 212.0
+offset_right = 443.0
+offset_bottom = 235.0
+scale = Vector2(5, 5)
+size_flags_vertical = 1
+text = "Hello World"
+metadata/_edit_use_anchors_ = true

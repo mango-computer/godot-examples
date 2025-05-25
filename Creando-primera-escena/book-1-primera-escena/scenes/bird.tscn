@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=3 uid="uid://ba8vdmk4lvm6"]
+
+[ext_resource type="Texture2D" uid="uid://si0sox8sw2pq" path="res://art/objects/bird-removebg-preview.png" id="1_17uiw"]
+
+[sub_resource type="PhysicsMaterial" id="PhysicsMaterial_0qsxw"]
+bounce = 0.4
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_0437v"]
+radius = 40.3113
+
+[node name="Bird" type="RigidBody2D"]
+mass = 4.0
+physics_material_override = SubResource("PhysicsMaterial_0qsxw")
+gravity_scale = 0.2
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_17uiw")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-2, 3)
+shape = SubResource("CircleShape2D_0437v")

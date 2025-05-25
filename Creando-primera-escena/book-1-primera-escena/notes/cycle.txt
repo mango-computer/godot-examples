@@ -1,0 +1,2062 @@
+Godot Engine v4.3.stable.mono.official.77dcf97d8 - https://godotengine.org
+OpenGL API 4.6 (Core Profile) Mesa 23.2.1-1ubuntu3.1~22.04.3 - Compatibility - Using Device: Intel - Mesa Intel(R) Graphics (RPL-P)
+
+[BirdPlayer][ Constructor ] first events.
+[ParedLeft][ Constructor ]  first events.
+[ParedRight][ _EnterTree ] ParedRight node is entering the scene tree.
+[BirdPlayer][ _EnterTree ] node is entering the scene tree.
+[ParedLeft][ _EnterTree ] Pared_left node is entering the scene tree.
+[ParedRight][ _EnterTree ] ParedRight node is entering the scene tree.
+[BirdPlayer][ _Ready ] node is ready.
+[ParedLeft][ _Ready ] Pared_left node is ready.
+[ParedRight][ _Ready ] ParedRight node is ready.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Draw ] node is drawing.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.03190766666666667
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.03190766666666667
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.015277777777777777
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.015277777777777777
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.0035252222222222195
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.0035252222222222195
+[BirdPlayer][ _Process ] node is processing. Delta: 0.0005500000000000001
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.0005500000000000001
+[BirdPlayer][ _Process ] node is processing. Delta: 0.0007309999999999999
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.0007309999999999999
+[BirdPlayer][ _Process ] node is processing. Delta: 0.0004069999999999994
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.0004069999999999994
+[BirdPlayer][ _Process ] node is processing. Delta: 0.00032699999999999917
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.00032699999999999917
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.013941
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.013941
+[BirdPlayer][ _Process ] node is processing. Delta: 0.004166666666666667
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.004166666666666667
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.015462666666666668
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.015462666666666668
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016522000000000002
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016522000000000002
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016350999999999997
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016350999999999997
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016932000000000003
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016932000000000003
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016855999999999996
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016855999999999996
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016753000000000004
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016753000000000004
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016467999999999997
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016467999999999997
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016921
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016921
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((484, 224)) with velocity ((0, 0))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((484, 224)) with velocity ((0, 0))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((484, 224)) with velocity ((0, 0))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((484, 224)) with velocity ((0, 0))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.019987000000000005
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.019987000000000005
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((496, 235)) with velocity ((0, 0))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((496, 235)) with velocity ((0, 0))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((496, 235)) with velocity ((0, 0))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((496, 235)) with velocity ((0, 0))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.01515151515151515
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.01515151515151515
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((498, 242)) with velocity ((0, 0))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((498, 242)) with velocity ((0, 0))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((498, 242)) with velocity ((0, 0))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((498, 242)) with velocity ((0, 0))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.015521484848484852
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.015521484848484852
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((499, 252)) with velocity ((0, 0))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((499, 252)) with velocity ((0, 0))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((499, 252)) with velocity ((0, 0))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((499, 252)) with velocity ((0, 0))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((499, 261)) with velocity ((0, 0))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((499, 261)) with velocity ((0, 0))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((499, 261)) with velocity ((0, 0))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((499, 261)) with velocity ((0, 0))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((499, 267)) with velocity ((0, 0))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((499, 267)) with velocity ((0, 0))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((499, 267)) with velocity ((0, 0))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((499, 267)) with velocity ((0, 0))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((500, 268)) with velocity ((57.7126, 214.6909))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((500, 268)) with velocity ((57.7126, 214.6909))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((500, 268)) with velocity ((57.7126, 214.6909))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((500, 268)) with velocity ((57.7126, 214.6909))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((514, 268)) with velocity ((57.7126, 214.6909))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((514, 268)) with velocity ((57.7126, 214.6909))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((514, 268)) with velocity ((57.7126, 214.6909))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((514, 268)) with velocity ((57.7126, 214.6909))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.018181333333333348
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.018181333333333348
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Up
+[BirdPlayer][ _Input ] node is processing input events. Up
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Up
+[BirdPlayer][ _Input ] node is processing input events. Up
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Right
+[BirdPlayer][ _Input ] node is processing input events. Right
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Right
+[ParedLeft][ _UnhandledInput ] ui_right.
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Right
+[BirdPlayer][ _UnhandledInput ] ui_right.
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[ParedLeft][ _Input ] node is processing input events. Right
+[BirdPlayer][ _Input ] node is processing input events. Right
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Right
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Right
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Right
+[BirdPlayer][ _Input ] node is processing input events. Right
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Right
+[ParedLeft][ _UnhandledInput ] ui_right.
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Right
+[BirdPlayer][ _UnhandledInput ] ui_right.
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[ParedLeft][ _Input ] node is processing input events. Down
+[BirdPlayer][ _Input ] node is processing input events. Down
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Down
+[ParedLeft][ _UnhandledInput ] ui_right.
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Down
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[ParedLeft][ _Input ] node is processing input events. Right
+[BirdPlayer][ _Input ] node is processing input events. Right
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Right
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Right
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Down
+[BirdPlayer][ _Input ] node is processing input events. Down
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Down
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Down
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Down
+[BirdPlayer][ _Input ] node is processing input events. Down
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Down
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Down
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Left
+[BirdPlayer][ _Input ] node is processing input events. Left
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Left
+[BirdPlayer][ _Input ] node is processing input events. Left
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Left
+[ParedLeft][ _Input ] node is processing input events. Down
+[BirdPlayer][ _Input ] node is processing input events. Down
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Down
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Down
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Up
+[BirdPlayer][ _Input ] node is processing input events. Up
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Left
+[BirdPlayer][ _Input ] node is processing input events. Left
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Up
+[BirdPlayer][ _Input ] node is processing input events. Up
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Left
+[BirdPlayer][ _Input ] node is processing input events. Left
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Left
+[BirdPlayer][ _Input ] node is processing input events. Left
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Left
+[BirdPlayer][ _Input ] node is processing input events. Left
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Up
+[BirdPlayer][ _Input ] node is processing input events. Up
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Up
+[BirdPlayer][ _Input ] node is processing input events. Up
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Up
+[BirdPlayer][ _Input ] node is processing input events. Up
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Up
+[BirdPlayer][ _Input ] node is processing input events. Up
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Right
+[BirdPlayer][ _Input ] node is processing input events. Right
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Right
+[ParedLeft][ _UnhandledInput ] ui_right.
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Right
+[BirdPlayer][ _UnhandledInput ] ui_right.
+[ParedLeft][ _Input ] node is processing input events. Down
+[BirdPlayer][ _Input ] node is processing input events. Down
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Down
+[ParedLeft][ _UnhandledInput ] ui_right.
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Down
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[ParedLeft][ _Input ] node is processing input events. Down
+[BirdPlayer][ _Input ] node is processing input events. Down
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Down
+[ParedLeft][ _UnhandledInput ] ui_right.
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Down
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[ParedLeft][ _Input ] node is processing input events. Right
+[BirdPlayer][ _Input ] node is processing input events. Right
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Right
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Right
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Right
+[BirdPlayer][ _Input ] node is processing input events. Right
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Right
+[ParedLeft][ _UnhandledInput ] ui_right.
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Right
+[BirdPlayer][ _UnhandledInput ] ui_right.
+[ParedLeft][ _Input ] node is processing input events. Down
+[BirdPlayer][ _Input ] node is processing input events. Down
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Down
+[ParedLeft][ _UnhandledInput ] ui_right.
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Down
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[ParedLeft][ _Input ] node is processing input events. Left
+[BirdPlayer][ _Input ] node is processing input events. Left
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Left
+[ParedLeft][ _UnhandledInput ] ui_right.
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _IntegrateForces ] ui_right.
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _PhysicsProcess ] ui_right.
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] ui_right.
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_right.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] ui_right.
+[ParedLeft][ _Input ] node is processing input events. Right
+[BirdPlayer][ _Input ] node is processing input events. Right
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Right
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Right
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_down.
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Down
+[BirdPlayer][ _Input ] node is processing input events. Down
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Down
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Down
+[ParedLeft][ _Input ] node is processing input events. Left
+[BirdPlayer][ _Input ] node is processing input events. Left
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Up
+[BirdPlayer][ _Input ] node is processing input events. Up
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Left
+[BirdPlayer][ _Input ] node is processing input events. Left
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Left
+[ParedLeft][ _Input ] node is processing input events. Up
+[BirdPlayer][ _Input ] node is processing input events. Up
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Left
+[BirdPlayer][ _Input ] node is processing input events. Left
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Up
+[BirdPlayer][ _Input ] node is processing input events. Up
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Left
+[BirdPlayer][ _Input ] node is processing input events. Left
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_up.
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Up
+[BirdPlayer][ _Input ] node is processing input events. Up
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Up
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] ui_left.
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Left
+[BirdPlayer][ _Input ] node is processing input events. Left
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Left
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((517, 268)) with velocity ((0, 0))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((517, 268)) with velocity ((0, 0))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((517, 268)) with velocity ((0, 0))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((517, 268)) with velocity ((0, 0))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((542, 267)) with velocity ((0, 0))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((542, 267)) with velocity ((0, 0))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((542, 267)) with velocity ((0, 0))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((542, 267)) with velocity ((0, 0))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((602, 267)) with velocity ((0, 0))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((602, 267)) with velocity ((0, 0))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((602, 267)) with velocity ((0, 0))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((602, 267)) with velocity ((0, 0))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((758, 267)) with velocity ((0, 0))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((758, 267)) with velocity ((0, 0))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((758, 267)) with velocity ((0, 0))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((758, 267)) with velocity ((0, 0))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((974, 255)) with velocity ((0, 0))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((974, 255)) with velocity ((0, 0))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((974, 255)) with velocity ((0, 0))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((974, 255)) with velocity ((0, 0))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1056, 251)) with velocity ((0, 0))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1056, 251)) with velocity ((0, 0))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1056, 251)) with velocity ((0, 0))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1056, 251)) with velocity ((0, 0))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1110, 223)) with velocity ((0, 0))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1110, 223)) with velocity ((0, 0))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1110, 223)) with velocity ((0, 0))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1110, 223)) with velocity ((0, 0))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1109, 197)) with velocity ((5104.313, -385.3928))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1109, 197)) with velocity ((5104.313, -385.3928))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1109, 197)) with velocity ((5104.313, -385.3928))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1109, 197)) with velocity ((5104.313, -385.3928))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1106, 178)) with velocity ((5104.313, -385.3928))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1106, 178)) with velocity ((5104.313, -385.3928))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1106, 178)) with velocity ((5104.313, -385.3928))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1106, 178)) with velocity ((5104.313, -385.3928))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1106, 160)) with velocity ((5104.313, -385.3928))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1106, 160)) with velocity ((5104.313, -385.3928))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1106, 160)) with velocity ((5104.313, -385.3928))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1106, 160)) with velocity ((5104.313, -385.3928))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1102, 158)) with velocity ((-26.7335, -421.0526))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1102, 158)) with velocity ((-26.7335, -421.0526))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1102, 158)) with velocity ((-26.7335, -421.0526))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1102, 158)) with velocity ((-26.7335, -421.0526))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1087, 156)) with velocity ((-26.7335, -421.0526))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1087, 156)) with velocity ((-26.7335, -421.0526))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1087, 156)) with velocity ((-26.7335, -421.0526))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1087, 156)) with velocity ((-26.7335, -421.0526))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1103, 147)) with velocity ((-26.7335, -421.0526))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1103, 147)) with velocity ((-26.7335, -421.0526))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1103, 147)) with velocity ((-26.7335, -421.0526))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1103, 147)) with velocity ((-26.7335, -421.0526))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1141, 129)) with velocity ((-26.7335, -421.0526))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1141, 129)) with velocity ((-26.7335, -421.0526))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1141, 129)) with velocity ((-26.7335, -421.0526))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1141, 129)) with velocity ((-26.7335, -421.0526))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1147, 126)) with velocity ((-26.7335, -421.0526))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1147, 126)) with velocity ((-26.7335, -421.0526))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1147, 126)) with velocity ((-26.7335, -421.0526))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1147, 126)) with velocity ((-26.7335, -421.0526))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1147, 117)) with velocity ((408.0658, -338.396))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1147, 117)) with velocity ((408.0658, -338.396))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1147, 117)) with velocity ((408.0658, -338.396))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1147, 117)) with velocity ((408.0658, -338.396))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1147, 108)) with velocity ((408.0658, -338.396))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1147, 108)) with velocity ((408.0658, -338.396))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1147, 108)) with velocity ((408.0658, -338.396))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1147, 108)) with velocity ((408.0658, -338.396))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1147, 93)) with velocity ((408.0658, -338.396))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1147, 93)) with velocity ((408.0658, -338.396))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1147, 93)) with velocity ((408.0658, -338.396))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1147, 93)) with velocity ((408.0658, -338.396))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1147, 84)) with velocity ((408.0658, -338.396))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1147, 84)) with velocity ((408.0658, -338.396))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1147, 84)) with velocity ((408.0658, -338.396))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1147, 84)) with velocity ((408.0658, -338.396))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1149, 82)) with velocity ((408.0658, -338.396))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1149, 82)) with velocity ((408.0658, -338.396))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1149, 82)) with velocity ((408.0658, -338.396))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1149, 82)) with velocity ((408.0658, -338.396))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.0166666[...]
+  [output overflow, print less text!]
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1144, 45)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1144, 45)) with velocity ((12.03131, -264.6887))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1144, 45)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1144, 45)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1139, 38)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1139, 38)) with velocity ((12.03131, -264.6887))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1139, 38)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1139, 38)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1135, 31)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1135, 31)) with velocity ((12.03131, -264.6887))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1135, 31)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1135, 31)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1129, 22)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1129, 22)) with velocity ((12.03131, -264.6887))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1129, 22)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1129, 22)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1126, 14)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1126, 14)) with velocity ((12.03131, -264.6887))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1126, 14)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1126, 14)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1126, 10)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1126, 10)) with velocity ((12.03131, -264.6887))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1126, 10)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1126, 10)) with velocity ((12.03131, -264.6887))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1125, 7)) with velocity ((-197.0714, -616.919))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1125, 7)) with velocity ((-197.0714, -616.919))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1125, 7)) with velocity ((-197.0714, -616.919))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1125, 7)) with velocity ((-197.0714, -616.919))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1125, 4)) with velocity ((-197.0714, -616.919))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1125, 4)) with velocity ((-197.0714, -616.919))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1125, 4)) with velocity ((-197.0714, -616.919))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1125, 4)) with velocity ((-197.0714, -616.919))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[ParedLeft][ _Input ] node is processing input events. Mouse motion at position ((1125, 2)) with velocity ((-197.0714, -616.919))
+[BirdPlayer][ _Input ] node is processing input events. Mouse motion at position ((1125, 2)) with velocity ((-197.0714, -616.919))
+[ParedLeft][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1125, 2)) with velocity ((-197.0714, -616.919))
+[BirdPlayer][ _UnhandledInput ] node is processing unhandled input events. Mouse motion at position ((1125, 2)) with velocity ((-197.0714, -616.919))
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+[BirdPlayer][ _IntegrateForces ]
+[BirdPlayer][ _PhysicsProcess ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _PhysicsProcess ] node is processing physics events. Delta: 0.016666666666666666
+[BirdPlayer][ _Process ] node is processing. Delta: 0.016666666666666666
+[ParedLeft][ _Process ] node is processing frame events. Delta: 0.016666666666666666
+--- Debugging process stopped ---
